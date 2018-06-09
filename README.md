@@ -7,3 +7,7 @@
 # Download
 # Release
 - [Windows version 64 bit](https://github.com/cmtliton/Phonebook/releases)
+## Screenshot
+<p align="center">
+<img src="https://github.com/cmtliton/Phonebook/blob/master/1_Main.png" width="400px">
+</p>
