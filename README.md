@@ -10,4 +10,5 @@
 ## Screenshot
 <p align="center">
 <img src="https://github.com/cmtliton/Phonebook/blob/master/1_Main.png" width="400px">
+ <img src="https://github.com/cmtliton/Phonebook/blob/master/1_Main.png" width="400px">
 </p>
