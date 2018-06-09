@@ -12,9 +12,6 @@
 <img src="https://github.com/cmtliton/Phonebook/blob/master/1_Main.png" width="400px">
  <img src="https://github.com/cmtliton/Phonebook/blob/master/0_Create%20Contact.png" width="400px">
 </p>
-## License
-It's free and opensource application under **MIT** license. You can do whatever you want as long as you include the original copyright and license notice in any copy of the software/source
-
 # Technical
 #### How ?
 This application is builded with [Electron](https://electron.atom.io) and web technologies (javascript, css, html) more specifically: [Vue.js](https://vuejs.org).)
