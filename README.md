@@ -12,6 +12,7 @@
 <img src="https://github.com/cmtliton/Phonebook/blob/master/1_Main.png" width="400px">
  <img src="https://github.com/cmtliton/Phonebook/blob/master/0_Create%20Contact.png" width="400px">
 </p>
+
 # Technical
 #### How ?
 This application is builded with [Electron](https://electron.atom.io) and web technologies (javascript, css, html) more specifically: [Vue.js](https://vuejs.org).)
