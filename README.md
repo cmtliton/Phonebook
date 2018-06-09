@@ -6,4 +6,4 @@
  - Authorized/Sign In user can access all contact list from cloud system (which are already created/updated by other user).
 # Download
 # Release
-- [Windows version 64 bit](https://github.com/pblinfo/PBLINFO/blob/master/PBLINFO%20Setup%200.0.1.exe)
+- [Windows version 64 bit](https://github.com/cmtliton/Phonebook/releases)
