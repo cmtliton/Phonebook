@@ -6,6 +6,7 @@
  - Authorized/Sign In user can access all contact list from cloud system (which are already created/updated by other user).
 # Download
 # Release
+- [Windows version 32 bit](https://github.com/cmtliton/Phonebook/releases)
 - [Windows version 64 bit](https://github.com/cmtliton/Phonebook/releases)
 ## Screenshot
 <p align="center">
